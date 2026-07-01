@@ -59,7 +59,7 @@ This dashboard recreates my earlier Spotify Analytics project built in Excel usi
 
 Download and watch the dashboard demo here:
 
-[▶️ Spotify Dashboard Demo](assets/5-dashboard-demo.mp4)
+[▶️ Spotify Dashboard Demo](assets/dashboard-demo.mp4)
 
 ---
 
